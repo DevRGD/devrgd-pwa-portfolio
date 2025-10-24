@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'DevRGD Portfolio',
     images: [
       {
-        url: 'https://devrgd.vercel.app/og-image.jpg',
+        url: 'https://devrgd.vercel.app/og-image.png',
         width: 1200,
         height: 630,
         alt: 'DevRGD — MERN Developer Portfolio',
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     title: 'DevRGD — MERN Developer Portfolio',
     description: 'Full-Stack MERN Developer creating scalable and modern web applications.',
     creator: '@devrgd',
-    images: ['https://devrgd.vercel.app/og-image.jpg'],
+    images: ['https://devrgd.vercel.app/og-image.png'],
   },
   robots: {
     index: true,

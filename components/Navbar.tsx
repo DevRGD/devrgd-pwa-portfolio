@@ -23,7 +23,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         <PageLink href="/" className="flex items-center gap-2 text-primary font-bold text-xl tracking-tight">
           <span className="font-mono">&lt;/&gt;</span>
-          <span className="hidden sm:inline">Gautam Das</span>
+          <span className="hidden sm:inline">DevRGD</span>
         </PageLink>
 
         <div className="hidden md:flex items-center gap-8 text-text-secondary font-medium">

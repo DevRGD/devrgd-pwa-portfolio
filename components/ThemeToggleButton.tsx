@@ -20,7 +20,7 @@ export default function ThemeToggleButton() {
       className="p-2 rounded-full bg-surface/50 text-text-secondary hover:text-primary transition-colors border border-border"
       aria-label="Toggle theme"
     >
-      {theme === 'light' ? <BsMoon size={18} /> : theme === 'dark' ? <BsSun size={18} /> : <BsDisplay size={18} />}
+      {theme === 'light' ? <BsSun size={18} /> : theme === 'dark' ? <BsMoon size={18} /> : <BsDisplay size={18} />}
     </button>
   );
 }
